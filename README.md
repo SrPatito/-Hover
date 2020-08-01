@@ -1,2 +1,0 @@
-# -Hover
-Ejercicio de programación
